@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Applied a light theme (white background) to create a higher color contrast
+* [x] Applied a light theme (white background) to make the color schemes more accessible to people who need high contrasts
 * [x] Displayed current donations to each game ("pledged") and funding goals ("goal") as a fraction    
 
 ## Video Walkthrough
