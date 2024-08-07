@@ -1,4 +1,5 @@
 // Image credits: Kickstarter
+// 6 properties
 const games = ` [
   {
     "name": "Heroes Of Mythic Americas",

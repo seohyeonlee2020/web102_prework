@@ -4,11 +4,14 @@ body {
     font-family: 'Cabin';
     color: #000000;
     background-color: white;
-    align-items: left;
 }
 
 #tentacles {
     width: 50px;
+}
+
+h2{
+    font-weight: bold;
 }
 
 .header {
@@ -23,7 +26,8 @@ body {
 
 .stats-container {
     display: flex;
-    align-items: center;
+    align-items: stretch;
+    align-content: space-around;
     
 }
 
@@ -33,13 +37,14 @@ body {
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: whitesmoke;
     border-radius: 7px;
     border-color: black;
-    border-width: 2px;
+    border-width: 1px;
     padding: 1%;
     margin: 1%;
-    width: match-parent;
+    width: max-content;
+    height: match-parent;
     text-align: center;
 }
 

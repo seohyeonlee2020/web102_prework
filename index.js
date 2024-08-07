@@ -137,6 +137,7 @@ function showAllGames() {
     addGamesToPage(GAMES_JSON);
 
 }
+showAllGames();
 
 // select each button in the "Our Games" section
 const unfundedBtn = document.getElementById("unfunded-btn");
